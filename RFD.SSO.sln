@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFD.SSO.WebClient", "RFD.SSO.WebClient\RFD.SSO.WebClient.csproj", "{5C0DB8FF-B7C9-43D6-BCA5-286EB4027F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFD.SSO.Server", "RFD.SSO.Server\RFD.SSO.Server.csproj", "{84661796-D3B4-4313-9598-082C04CEE8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFD.SSO.Web", "RFD.SSO.Web\RFD.SSO.Web.csproj", "{78DD3575-B8B1-4414-ACE4-C05A81C4157C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFD.SSO.ServerWebHost", "RFD.SSO.ServerWebHost\RFD.SSO.ServerWebHost.csproj", "{11B3FEE4-610E-455E-A885-86FAA05AADC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0DB8FF-B7C9-43D6-BCA5-286EB4027F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0DB8FF-B7C9-43D6-BCA5-286EB4027F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0DB8FF-B7C9-43D6-BCA5-286EB4027F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0DB8FF-B7C9-43D6-BCA5-286EB4027F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84661796-D3B4-4313-9598-082C04CEE8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84661796-D3B4-4313-9598-082C04CEE8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84661796-D3B4-4313-9598-082C04CEE8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84661796-D3B4-4313-9598-082C04CEE8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DD3575-B8B1-4414-ACE4-C05A81C4157C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DD3575-B8B1-4414-ACE4-C05A81C4157C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DD3575-B8B1-4414-ACE4-C05A81C4157C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DD3575-B8B1-4414-ACE4-C05A81C4157C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B3FEE4-610E-455E-A885-86FAA05AADC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B3FEE4-610E-455E-A885-86FAA05AADC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B3FEE4-610E-455E-A885-86FAA05AADC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B3FEE4-610E-455E-A885-86FAA05AADC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
